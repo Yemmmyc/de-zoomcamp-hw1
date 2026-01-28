@@ -182,6 +182,8 @@ LIMIT 1;
 
 ## 🔨 Terraform Workflow
 
+Full Windows instructions are available here: terraform/README.md
+
 ```bash
 terraform init      # download providers
 terraform apply -auto-approve   # create resources
